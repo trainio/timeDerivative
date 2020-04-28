@@ -1,6 +1,7 @@
 ## Derivision - the Discrete Time Derivative of a Video
 
 
+![derivision](https://github.com/trainio/timeDerivative/blob/master/examples/derivision-light-makes-difference.jpg)
 
 
 Light makes a difference
