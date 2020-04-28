@@ -1,6 +1,6 @@
 ## TimeDerivative
 
-#Light makes a difference
+Light makes a difference
 
 Participants are provided with printed image material, flashlights and a mindset to explore, combine and mix images just by pointing a flashlight on them. This creative method is made possible by background subtractionthat calculates the derivative between empty background and the current scene. Hand gestures, lightdrawings and printed images merge together in a painterly manner.
 
